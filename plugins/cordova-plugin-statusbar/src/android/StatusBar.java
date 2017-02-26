@@ -17,7 +17,7 @@
  * under the License.
  *
 */
-//2017.2.26
+
 package org.apache.cordova.statusbar;
 
 import android.app.Activity;
