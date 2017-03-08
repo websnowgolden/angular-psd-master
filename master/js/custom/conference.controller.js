@@ -1,4 +1,4 @@
-//2017.3.7
+//2017.3.8 test color
 
 (function() {
     'use strict';
