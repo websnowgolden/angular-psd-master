@@ -21,4 +21,4 @@
 		$scope.whiteBoardUrl = $sce.trustAsResourceUrl(x);
      }
 })();
-//today is saturday 25 Mar 2017.
+//
