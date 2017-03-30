@@ -1,4 +1,3 @@
-//2017.3.31 patient update.
 angular
     .module('app.patient')
     .factory('PatientService', PatientService);
